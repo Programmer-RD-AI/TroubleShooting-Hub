@@ -1,0 +1,9 @@
+[project]
+name = "structure-output-breaks-if-const-value-is-a-long-string-with-a-new-line-inside-of-it-2133"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.10.6",
+]
