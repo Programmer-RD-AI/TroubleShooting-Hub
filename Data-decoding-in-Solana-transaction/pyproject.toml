@@ -1,0 +1,9 @@
+[project]
+name = "data-decoding-in-solana-transaction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "base58>=2.1.1",
+]
